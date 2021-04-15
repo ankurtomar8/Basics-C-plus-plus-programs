@@ -8,6 +8,10 @@
         "WAP_to_swap_without_using_third_variable.C": "cpp",
         "WAP_to_calculate_area_of_triangle.C": "cpp",
         "5_WAP_to_calculate_area_of_Circle.C": "cpp",
-        "6_WAP_to_calculate_Simple_Interest.C": "cpp"
+        "6_WAP_to_calculate_Simple_Interest.C": "cpp",
+        "7_WAP_to_convert_Distance_from_KM_to_Metres.C": "cpp",
+        "8_WAP_to_calculate_average_of_three_numbers.C": "cpp",
+        "9_WAP_to_convert_from_celsius_to_fahrenheit.C": "cpp",
+        "10_WAP_to_INCREMENT_AND_DECREMENT.C": "cpp"
     }
 }
