@@ -26,8 +26,6 @@ int main()
         cout<<"Grade is C " <<endl;
     }
 
-    
-
     return 0;
     
   }
