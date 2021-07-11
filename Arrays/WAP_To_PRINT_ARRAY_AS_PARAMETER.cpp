@@ -9,13 +9,16 @@ int fun(int A[] , int n)
        sum += A[i];
     
  }
-  cout<<" \nsum "<<sum;
+  cout<<" \n sum "<<sum;
 }
+
  int main()
  {
      int A[] = {10,20,30,40,50,60,70};
 
      fun(A,6);
+     // cout<<endl;
+     // fun(A,6);
 
      return 0;
  
